@@ -1,1 +1,6 @@
 D:\Visual Studio Projects\TechRookieTask3\TechRookieTask3\bin\Debug\TechRookieTask3.exe.config
+D:\Visual Studio Projects\TechRookieTask3\TechRookieTask3\bin\Debug\TechRookieTask3.exe
+D:\Visual Studio Projects\TechRookieTask3\TechRookieTask3\bin\Debug\TechRookieTask3.pdb
+D:\Visual Studio Projects\TechRookieTask3\TechRookieTask3\obj\Debug\TechRookieTask3.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\TechRookieTask3\TechRookieTask3\obj\Debug\TechRookieTask3.exe
+D:\Visual Studio Projects\TechRookieTask3\TechRookieTask3\obj\Debug\TechRookieTask3.pdb
